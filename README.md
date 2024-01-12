@@ -31,7 +31,7 @@ Ao final deve se exibir uma mensagem:
 
 ## Como é realizada a Pontuação:
 
-*Pontuação = (idade * número da sorte) * 100*
+*Pontuação = (idade + número da sorte) * 100*
 
 ## 🔍 Referências
 
